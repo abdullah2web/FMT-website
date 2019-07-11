@@ -31,6 +31,3 @@ open_movies_page()
 To run this application, open the entertainment_center file then press run tap in up menu bar and chose run module 
 (or press F5 in your keyboard) , will create new HTML file named fresh_tomatoes.html if not exist,
 next time opn this html file to browse the website.
-
-### for any assistant, 
-please contact me [Here](abdullah2web@gmail.com)
